@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Currently DreamSDK R3 is not released but almost finished. You can grab it by browsing Discord: https://discord.gg/TRx94EV
 <!--
 
 **Here are some ideas to get you started:**
