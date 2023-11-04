@@ -17,7 +17,7 @@ for interacting with the Sega Dreamcast hardware), the associated/required
 programs made for this package
 (e.g., [DreamSDK Manager](https://github.com/dreamsdk/manager)). DreamSDK is
 compatible with Windows XP and greater (e.g, it has been well tested on Windows
-10).
+11).
 
 📥 [**Download the official release here**](http://dreamsdk.org/).
 
