@@ -19,7 +19,7 @@ programs made for this package
 compatible with Windows XP and greater (e.g, it has been well tested on Windows
 11).
 
-📥 [**Download the official release here**](http://dreamsdk.org/).
+📥 [**Download the official release here**](http://dreamsdk.org/) or [directly on GitHub here](https://github.com/dreamsdk/dreamsdk/releases/tag/r3-3.0.4.2311).
 
 <!--
 
