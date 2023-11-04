@@ -1,6 +1,26 @@
-## Hi there 👋
+# Welcome to DreamSDK!
 
-Currently DreamSDK R3 is not released but almost finished. You can grab it by browsing Discord: https://discord.gg/TRx94EV
+**DreamSDK is a modern, ready-to-use environment for the Sega Dreamcast
+development, designed for the Microsoft Windows platform**.
+
+By installing DreamSDK you can start developing for your Sega Dreamcast today,
+on Windows OS, without bothering with toolchains, libraries or configuration. 
+DreamSDK is used for producing Sega Dreamcast homebrews/games (i.e., Dreamcast
+programs), even commercial ones, like 
+[The Textorcist](https://gamefairy.io/product/textorcist-dreamcast-limited-to-666/)
+or [Shadow Gangs](https://www.kickstarter.com/projects/jkmcorp/shadow-gangs-dreamcast-version)!
+
+DreamSDK is a big package composed by a lot of free/open-source softwares,
+mainly [KallistiOS](http://gamedev.allusion.net/softprj/kos/) (the library used
+for interacting with the Sega Dreamcast hardware), the associated/required
+[GNU toolchain](https://en.wikipedia.org/wiki/GNU_toolchain), and some special
+programs made for this package
+(e.g., [DreamSDK Manager](https://github.com/dreamsdk/manager)). DreamSDK is
+compatible with Windows XP and greater (e.g, it has been well tested on Windows
+10).
+
+📥 [**Download the official release here**](http://dreamsdk.org/).
+
 <!--
 
 **Here are some ideas to get you started:**
