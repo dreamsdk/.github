@@ -9,9 +9,8 @@ DreamSDK is used for producing Sega Dreamcast homebrews/games (i.e., Dreamcast
 programs), even commercial ones, like 
 [The Textorcist](https://gamefairy.io/product/textorcist-dreamcast-limited-to-666/)
 or [Shadow Gangs](https://www.kickstarter.com/projects/jkmcorp/shadow-gangs-dreamcast-version)!
-
-Since 2024, DreamSDK is used officially by the unofficial [Grand Theft Auto III](https://dca3.net/) 
-and Grand Theft Auto: Vice City ports made by **The Gang** team!
+Also, since 2024, DreamSDK is used officially by the **The Gang**, the team behind the 
+unofficials [Grand Theft Auto III](https://dca3.net/) and Grand Theft Auto: Vice City ports!
 
 DreamSDK is a big package composed by a lot of free/open-source softwares,
 mainly [KallistiOS](http://gamedev.allusion.net/softprj/kos/) (the library used
