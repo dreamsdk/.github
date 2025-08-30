@@ -21,7 +21,7 @@ programs made for this package
 compatible with Windows XP and greater (e.g, it has been well tested on Windows
 11).
 
-📥 [**Download the official release here**](https://github.com/dreamsdk/dreamsdk/releases/)
+📥 [**Download official releases here**](https://github.com/dreamsdk/dreamsdk/releases/)
 
 🗣️ [**Discuss here on the official Discord channel (hosted by Simulant)**](https://discord.gg/K2uyFtjAZ2)
 
