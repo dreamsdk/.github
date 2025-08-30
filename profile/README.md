@@ -1,8 +1,5 @@
 # Welcome to DreamSDK!
 
-> [!IMPORTANT]  
-> The current release package, DreamSDK R3 was released in 2023. KallistiOS changed a lot since then, so the package is currently unusable. DreamSDK R4 is currently work-in-progress and will be probably released in Summer 2025. Thank you for your patience!
-
 **DreamSDK is a modern, ready-to-use environment for the Sega Dreamcast
 development, designed for the Microsoft Windows platform**.
 
@@ -24,7 +21,7 @@ programs made for this package
 compatible with Windows XP and greater (e.g, it has been well tested on Windows
 11).
 
-📥 [**Download the official release here**](https://github.com/dreamsdk/dreamsdk/releases/tag/r3-3.0.4.2311)
+📥 [**Download the official release here**](https://github.com/dreamsdk/dreamsdk/releases/)
 
 🗣️ [**Discuss here on the official Discord channel (hosted by Simulant)**](https://discord.gg/K2uyFtjAZ2)
 
